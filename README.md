@@ -7,4 +7,4 @@ open settings, data managment
 SD card
 click on the channel you want to install
 and click copy! 
-Repeat steps 3 and 4 to install more channels!
+Repeat steps 7 and 8 to install more channels!
