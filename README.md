@@ -8,3 +8,4 @@ SD card
 click on the channel you want to install
 and click copy! 
 Repeat steps 7 and 8 to install more channels!
+Files: https://drive.google.com/drive/folders/1K8C834WCfsIijlf6o0dBibzXiY3IEvPq?usp=sharing
